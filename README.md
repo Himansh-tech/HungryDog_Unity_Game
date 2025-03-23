@@ -18,7 +18,7 @@ Watch the gameplay in action:
 
 ### 🎮 Play the Game  
 Try it out here:  
-[Play HungryDog]([https://play.unity.com/en/games/2a2981df-a42d-4837-85d3-0c5412916206/feed-the-dogs/edit](https://play.unity.com/en/games/2a2981df-a42d-4837-85d3-0c5412916206/feed-the-dogs))  
+[Play HungryDog](https://play.unity.com/en/games/2a2981df-a42d-4837-85d3-0c5412916206/feed-the-dogs)  
 
 ---
 
